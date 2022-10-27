@@ -13,8 +13,10 @@ html{
 }
 
 body{
-background-color:rgba(128, 128, 128, 0.99);
+background-color:rgb(245, 243, 250);
 }
+
+
 
 
 /* ###################### utility classes #########
@@ -42,7 +44,7 @@ background-color:rgba(128, 128, 128, 0.99);
     box-shadow: 0px 50px 90px 10px rgb(11, 8, 8);
     position:relative;
     width: 100%;
-    background-color:transparent rgba(9, 13, 16, 0.433);
+    background-color:transparent rgba(21, 130, 214, 0.433);
    color: #000;
    border-bottom: 3px  solid rgb(37, 26, 26);
     opacity:0.85;
@@ -93,8 +95,9 @@ background-color:rgba(128, 128, 128, 0.99);
  }
 
  .showcase-area{
-    height:400px;
-    background-image:  url(https://webartdevelopers.com/blog/wp-content/uploads/2019/02/Pure-CSS-Animated-Background.gif);
+    height:500px;
+    background-image:  url(https://blog.templatetoaster.com/wp-content/uploads/2020/05/Bootstrap-5.jpg);
+    background-size:cover;
  }
 
  .showcase-area .slogan{
